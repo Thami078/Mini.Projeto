@@ -1,0 +1,79 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Ysabeau+Infant:ital@1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+body { margin: 0 ; padding: 0 ; background-color: #f0e0d4;}
+
+
+p { font-family: 'Ysabeau Infant', sans-serif;}
+li {font-family: 'Ysabeau Infant', sans-serif; 
+    list-style: none;}
+h1 {font-family: 'Bebas Neue', sans-serif;}
+ 
+
+
+
+#img1 { margin-left: 4%; margin-top: 15px; border-radius: 60%; width: 200px; height: 200px;}
+    
+
+#div1 {display: flex; flex-direction:row; gap: 10px; margin-left: 0PX; align-items: flex-start;}
+
+
+.titulo1 {  color:#590F1D;
+    font-size: 55px; 
+    font-weight: 100;
+margin-left: 3%; }
+#informacoes { margin-left: 200px; font-size: 20px; margin-top: 50px; }
+
+
+.introducao p { margin-left : 90px; margin-right: 689px; margin-top: 20px;} 
+
+#linha { margin-left: 50px ; margin-right: 50px; background-color: #735B46 ; color: #735B46; }
+
+
+.titulosobreMim { margin-left: 50px; margin-right: 500px; margin-top: 40px; border: 1px solid #f0e0d4; font-size: 35px; color: #A6886D}
+
+ 
+.apresentacao{margin-left: 50px; margin-right: 270px; margin-top: -7px; border: 1px solid #f0e0d4;  font-size:17px ;}
+      
+.img2 { width: 190px; height: 190px; position: absolute; left: 81%; top: 62%; right: 10px; border-radius: 10%;}
+
+.habilidades { color:#f0e0d4;
+    font-size: 34px;
+    font-weight: 100;  
+   
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color:#8C1B11;
+    margin-left: 52px ;
+    margin-top: 40px;
+    margin-right: 78%;}
+
+
+.lista2 { font-size: 19px;
+          margin-left: 10px;
+        margin-right: 65%;}
+
+
+.atv { color:#f0e0d4;
+    font-size: 34px;
+    font-weight: 100;  
+   
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color:#8C1B11;
+    margin-left: 52px ;
+    margin-top: 40px; }
+
+#resumo { font-size: 17px;
+    margin-left: 50px;
+   margin-right: 38%;}
+
+
+.html { width: 400px; height: 220px; position: absolute; left: 64%; top: 130%; right: 10px; }
+
+
+.console{width: 400px; height: 220px; position: absolute; left: 50px; top:180%; right: 10px; }
+
+
+#video { width: 400px; height: 220px; position: absolute; left: 38%; top: 180%; right: 10px;  }
+
+#footer { height: 500px;}

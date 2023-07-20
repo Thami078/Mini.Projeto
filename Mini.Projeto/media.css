@@ -1,0 +1,28 @@
+/* a responsividade só funciona no Iphone 12 pro, na vertical, não consegui adaptar o resto. 😓 */
+
+@media screen and (max-width: 720px) {
+
+
+    bory { margin-right: 0px; border: 0px;}
+    
+   
+    #div1 { display: flex; flex-direction:row; margin-right: 0px; }
+   
+    .titulo1 { font-size:36px;  margin-top: 60px; margin-left: 40px;}
+    #informacoes { margin-left: 0px;margin-right: -260px; margin-top: 70px; font-size: 15px;}
+    .introducao p { margin-left: 55px; margin-right: -200px; display: flex; margin-top: 30px; display: flex; flex-direction: row;}
+    #linha { margin-right: -220px; margin-left: 40px;}
+    
+    .titulosobreMim { display: flex; flex-direction: row; margin-right: -100px;}
+    .apresentacao { display: flex; flex-direction: row; margin-right: 5px;  } 
+    .sobreMim { width: 500px; justify-content: space-between;}
+    .texto-sobreMim { width: 400px;}
+    .img2 { margin-left: 0px; margin-right: 30px ;  left: 110%; right: 20%; top: 55%;}
+
+    #resumo { margin-right: -206px;}
+    .html { margin-top: 50%; position: absolute; left: 12% ;  width: 500px; height: 320px; }
+    .console { margin-top: 40%;  width: 500px; height: 320px;  }
+    #video { margin-top: 140%; width: 500px; height: 320px; position: absolute; left: 12% ;  }
+    #footer {  height: 1400px;}
+}
+
